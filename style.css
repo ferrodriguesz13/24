@@ -1,0 +1,12 @@
+
+body
+{
+    background-image: linear-gradient(270deg, rgb(233, 95, 164), rgb(224, 200, 178));
+    color: rgb(0, 0, 0);
+    font-size: 12pt;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    
+}
+
+img{
+    justify-content: center;
